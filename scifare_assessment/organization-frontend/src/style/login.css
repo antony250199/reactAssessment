@@ -1,0 +1,18 @@
+.divider:after,
+.divider:before {
+  content: "";
+  display: block; 
+  height: 1px;
+  background: #eee;
+}
+.div{
+    background-color: #eee;
+}
+.img-fluid{
+    height: 500px;
+    width: 100%;
+    padding: 20px;
+}
+.mb-4{
+    padding-top: 20px;
+}
